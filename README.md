@@ -1,6 +1,6 @@
 # digital-literacy-project
 
-name: vatsla das
+name: vatsala das
 reg no: 25boe10123
 branch: bioengineering
 
